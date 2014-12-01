@@ -1,0 +1,2 @@
+root     11488  0.0  0.1   8368   896 ?        Ss   23:31   0:00 /usr/local/ntp/bin/ntpd -c /etc/ntp.conf -p /tmp/ntpd.pid
+xuebin   11501  0.0  0.1  11744   912 pts/0    S+   23:35   0:00 grep --color=auto ntp
